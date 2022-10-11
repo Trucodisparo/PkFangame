@@ -369,6 +369,8 @@ module Settings
   LANGUAGES = [
   #  ["English", "english.dat"],
   #  ["Deutsch", "deutsch.dat"]
+     ["English", "english.dat"],
+     ["Español", "esp.dat"]
   ]
 
   #=============================================================================
